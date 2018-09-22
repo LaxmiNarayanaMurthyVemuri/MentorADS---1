@@ -1,0 +1,5 @@
+# MentorADS - 1
+Title: ADS-1
+Description:
+
+The study of algorithms and data structures is fundamental to any computer- science curriculum, but it is not just for programmers and computer-science students. Everyone who uses a computer wants it to run faster or to solve larger problems. They have become essential tools in engineering; and from database systems to internet search engines, they have become essential parts of modern software systems. And these are but a few examples—as the scope of computer applications continues to grow. This course covers the essential information that every serious programmer needs to know about algorithms and data structures, with emphasis on applications and scientific performance analysis of Java implementations which covers elementary data structures, sorting, and searching algorithms. 
