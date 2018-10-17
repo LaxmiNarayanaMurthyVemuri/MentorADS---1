@@ -1,4 +1,4 @@
-########## Testcase 0: Failed ##########
+########## Testcase 0: Passed ##########
 Expected Output: 
 1
 2, 1
@@ -15,7 +15,6 @@ Steque is empty.
 Steque is empty.
 
 Your Output: 
-8
 1
 2, 1
 3, 2, 1
@@ -31,7 +30,7 @@ Steque is empty.
 Steque is empty.
 ----------------------------------------
 
-########## Testcase 1: Failed ##########
+########## Testcase 1: Passed ##########
 Expected Output: 
 Steque is empty.
 Steque is empty.
@@ -78,7 +77,6 @@ Steque is empty.
 2, 4, 6, 8, 10, 9, 7, 5, 3, 1
 
 Your Output: 
-8
 Steque is empty.
 Steque is empty.
 

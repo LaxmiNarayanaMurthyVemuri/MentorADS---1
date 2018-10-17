@@ -1,4 +1,2 @@
 Starting audit...
-[ERROR] /home/cihl-132/Documents/Juniors-2018/Github-ADS1/7.1 Steque/Solution.java:186:33: '3' is a magic number. [MagicNumber]
 Audit done.
-Checkstyle ends with 1 errors.

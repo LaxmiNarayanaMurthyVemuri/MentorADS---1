@@ -183,7 +183,6 @@ public final class Solution {
      * @param      args  The arguments
      */
     public static void main(final String[] args) {
-        System.out.println(1 << 3);
         Scanner scan = new Scanner(System.in);
         int testcases = Integer.parseInt(scan.nextLine());
         while (testcases > 0) {
